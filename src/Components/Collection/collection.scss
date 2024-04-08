@@ -1,0 +1,49 @@
+
+.c-head{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+                color: black;
+                margin-left: 20px;
+                font-family: "Poppins", sans-serif;
+                align-items: center;
+}
+.first-text{
+    font-size: 22px;
+    font-weight: 800;
+    background-color: hsl(45, 93%, 89%);
+    border: none;
+    border-radius: 10px;
+    width: 18%;
+    justify-content: center;
+    padding-left: 30px;
+    align-items: center;
+}
+.second-text{
+    color: #FFD24D;
+                font-weight: 600;
+                font-size: 18px;
+}
+.swiper{
+    margin-top: -100px;
+}
+.swiper img{
+    height: 350px;
+    align-items: center;
+    width:100%;
+    margin-top: 150px;
+}
+.r-button{
+    gap: 1px;
+    margin-left: 600px;
+    margin-bottom: 30px;
+    margin-top: -20px;
+    font-weight:30px;
+}
+.r-button button{
+    color: #FFD24D;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+}
